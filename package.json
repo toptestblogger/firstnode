@@ -19,6 +19,7 @@
     "socket.io": "*",
     "mongoose": "*",
     "underscore": "*",
-    "mongodb": "*"
+    "mongodb": "*",
+    "debug":"*"
   }
 }
