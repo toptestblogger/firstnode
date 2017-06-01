@@ -1,5 +1,5 @@
 {
-  "name": "TeenPattiBy KALYAN",
+  "name": "TeenPattiByKALYAN",
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
@@ -8,17 +8,17 @@
   },
   "private": true,
   "dependencies": {
-    "express": "~4.15.3",
-    "body-parser": "~1.17.2",
-    "cookie-parser": "~1.4.3",
-    "morgan": "~1.8.2",
-    "serve-favicon": "~2.4.3",
-    "debug": "~2.6.8",
-    "jade": "~1.11.0",
-    "mongojs": "~2.4.0",
-    "socket.io": "~2.0.1",
-    "mongoose": "~4.10",
-    "underscore": "~1.8.3",
-    "mongodb": "~2.2.19"
+    "express": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "morgan": "*",
+    "serve-favicon": "*",
+    "debug": "*",
+    "jade": "*",
+    "mongojs": "*",
+    "socket.io": "*",
+    "mongoose": "*",
+    "underscore": "*",
+    "mongodb": "*"
   }
 }
